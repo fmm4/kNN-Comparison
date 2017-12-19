@@ -1,0 +1,13 @@
+Time to Apply Clustering: 96.708~22.582 ms
+Results - glass
+DB Info:
+Samples :214
+Classes :6
+Parameters :9
+----------------------------------------
+[ GLOBAL_K ] - P: 61.9~19.91, K: 1.0~1.0878 (Train: 131.031~7.954 ms, Test: 0.404~0.076 ms)
+[ LOCAL_BEST_K ] - P: 62.26~17.99, K: 2.0~2.1209 (Train: 183.355~15.084 ms, Test: 4.976~0.598 ms)
+[ WEIGHTED_HARMONIC ] - P: 60.42~20.35, K: 3.0~3.7912 (Train: 294.338~21.903 ms, Test: 12.285~3.584 ms)
+[ FUZZY_HUBNESS ] - P: 60.18~20.09, K: 2.0~0.7454 T: 0.0~0.2494 (Train: 43812.497~1007.1 ms, Test: 5.289~1.041 ms)
+----------------------------------------
+25

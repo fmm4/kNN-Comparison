@@ -1,0 +1,24 @@
+Results - wine
+DB Info:
+Samples :178
+Classes :3
+Parameters :13
+----------------------------------------
+[ GLOBAL_K ] - P: 76.33~14.18, K: 1.0~0.0 (Train: 151.992~8.334 ms, Test: 0.403~0.104 ms)
+[ LOCAL_BEST_K ] - P: 69.67~16.9, K: 4.0~3.3752 (Train: 420.104~23.801 ms, Test: 9.07~0.839 ms)
+[ WEIGHTED_HARMONIC ] - P: 76.89~15.37, K: 13.0~5.3384 (Train: 3312.938~144.877 ms, Test: 24.31~5.585 ms)
+[ FUZZY_HUBNESS ] - P: 65.78~19.42, K: 2.0~0.4726 T: 0.0~0.0 (Train: 211194.803~5594.173 ms, Test: 9.226~0.891 ms)
+----------------------------------------
+
+Time to Apply Clustering: 45.015~11.257 ms
+Results - wine
+DB Info:
+Samples :178
+Classes :3
+Parameters :13
+----------------------------------------
+[ GLOBAL_K ] - P: 69.56~16.5, K: 3.0~5.4599 (Train: 108.545~5.847 ms, Test: 0.381~0.11 ms)
+[ LOCAL_BEST_K ] - P: 67.22~23.06, K: 4.0~2.9027 (Train: 128.083~9.899 ms, Test: 2.492~0.6 ms)
+[ WEIGHTED_HARMONIC ] - P: 73.56~19.64, K: 3.0~2.9747 (Train: 106.696~5.06 ms, Test: 5.512~1.266 ms)
+[ FUZZY_HUBNESS ] - P: 67.11~19.24, K: 2.0~0.5416 T: 1.0~0.0 (Train: 14934.225~494.694 ms, Test: 2.369~0.273 ms)
+----------------------------------------

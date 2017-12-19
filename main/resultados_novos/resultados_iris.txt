@@ -1,0 +1,30 @@
+Results - iris
+DB Info:
+Samples :150
+Classes :3
+Parameters :4
+----------------------------------------
+[ GLOBAL_K ] - P: 96.67~9.07, K: 15.0~4.0173 (Train: 134.398~13.814 ms, Test: 0.368~0.034 ms)
+[ LOCAL_BEST_K ] - P: 98.0~6.0, K: 10.0~3.0114 (Train: 307.588~35.167 ms, Test: 5.949~0.593 ms)
+F_onewayResult(statistic=0.43609022556327204, pvalue=0.51162986620228579)
+[ WEIGHTED_HARMONIC ] - P: 95.33~9.91, K: 6.0~6.1432 (Train: 612.487~59.934 ms, Test: 13.345~3.556 ms)
+F_onewayResult(statistic=0.28571428571615709, pvalue=0.59502327844334002)
+[ FUZZY_HUBNESS ] - P: 96.67~7.45, K: 4.0~5.6079 T: 1.0~3.3541 (Train: 140715.737~13734.696 ms, Test: 6.043~0.675 ms)
+F_onewayResult(statistic=0.0, pvalue=1.0)
+----------------------------------------
+
+Time to Apply Clustering: 33.864~9.829 ms
+Results - iris
+DB Info:
+Samples :150
+Classes :3
+Parameters :4
+----------------------------------------
+[ GLOBAL_K ] - P: 96.0~8.0, K: 7.0~3.0385 (Train: 106.722~15.104 ms, Test: 0.355~0.059 ms)
+[ LOCAL_BEST_K ] - P: 94.67~11.47, K: 9.0~2.3293 (Train: 121.297~12.698 ms, Test: 2.006~0.495 ms)
+F_onewayResult(statistic=0.26363636363597726, pvalue=0.60958332529610015)
+[ WEIGHTED_HARMONIC ] - P: 96.67~9.07, K: 1.0~0.0 (Train: 91.419~10.181 ms, Test: 3.758~0.611 ms)
+F_onewayResult(statistic=0.088145896656640604, pvalue=0.76760829555344667)
+[ FUZZY_HUBNESS ] - P: 93.33~11.93, K: 9.0~2.6418 T: 9.0~0.0 (Train: 13979.663~1454.293 ms, Test: 2.005~0.405 ms)
+F_onewayResult(statistic=0.99999999999919609, pvalue=0.32146438312100745)
+----------------------------------------

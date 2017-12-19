@@ -1,0 +1,24 @@
+Results - glass
+DB Info:
+Samples :214
+Classes :6
+Parameters :9
+----------------------------------------
+[ GLOBAL_K ] - P: 72.8~17.06, K: 1.0~0.1795 (Train: 160.92~8.96 ms, Test: 0.422~0.112 ms)
+[ LOCAL_BEST_K ] - P: 68.63~20.7, K: 4.0~3.4365 (Train: 520.81~32.324 ms, Test: 12.321~1.105 ms)
+[ WEIGHTED_HARMONIC ] - P: 73.75~17.92, K: 3.0~2.2313 (Train: 4610.513~309.147 ms, Test: 24.993~2.666 ms)
+[ FUZZY_HUBNESS ] - P: 70.71~19.52, K: 1.0~0.4819 T: 0.0~0.0 (Train: 295498.3~20794.17 ms, Test: 12.683~1.288 ms)
+----------------------------------------
+
+Time to Apply Clustering: 49.434~9.69 ms
+Results - glass
+DB Info:
+Samples :75
+Classes :6
+Parameters :9
+----------------------------------------
+[ GLOBAL_K ] - P: 62.32~19.68, K: 1.0~0.7951 (Train: 109.245~8.217 ms, Test: 0.365~0.059 ms)
+[ LOCAL_BEST_K ] - P: 59.76~19.54, K: 3.0~2.9988 (Train: 127.207~14.56 ms, Test: 2.794~0.542 ms)
+[ WEIGHTED_HARMONIC ] - P: 63.27~16.17, K: 3.0~1.9947 (Train: 94.225~7.682 ms, Test: 7.748~1.619 ms)
+[ FUZZY_HUBNESS ] - P: 60.36~17.94, K: 1.0~0.763 T: 0.0~0.5375 (Train: 14607.389~1002.173 ms, Test: 2.715~0.282 ms)
+----------------------------------------

@@ -1,0 +1,12 @@
+Time to Apply Clustering: 581.461~57.244 ms
+Results - ionosphere
+DB Info:
+Samples :351
+Classes :2
+Parameters :34
+----------------------------------------
+[ GLOBAL_K ] - P: 64.02~14.45, K: 19.0~0.0 (Train: 253.65~31.812 ms, Test: 0.559~0.078 ms)
+[ LOCAL_BEST_K ] - P: 64.02~14.45, K: 18.0~0.0 (Train: 1235.363~124.516 ms, Test: 37.849~4.812 ms)
+[ WEIGHTED_HARMONIC ] - P: 64.57~14.21, K: 1.0~0.2494 (Train: 1848.329~189.458 ms, Test: 70.027~9.331 ms)
+[ FUZZY_HUBNESS ] - P: 64.02~14.45, K: 20.0~0.0 T: 9.0~0.0 (Train: 774991.556~55076.624 ms, Test: 40.229~6.874 ms)
+----------------------------------------

@@ -1,0 +1,30 @@
+Results - glass
+DB Info:
+Samples :214
+Classes :6
+Parameters :9
+----------------------------------------
+[ GLOBAL_K ] - P: 72.08~13.61, K: 1.0~0.1795 (Train: 150.903~9.97 ms, Test: 0.363~0.037 ms)
+[ LOCAL_BEST_K ] - P: 66.79~16.13, K: 4.0~3.0375 (Train: 484.589~18.787 ms, Test: 11.53~1.338 ms)
+F_onewayResult(statistic=1.8264938575921537, pvalue=0.18179006553479068)
+[ WEIGHTED_HARMONIC ] - P: 72.44~16.49, K: 3.0~2.3907 (Train: 1246.561~59.707 ms, Test: 24.268~2.9 ms)
+F_onewayResult(statistic=0.0080923959393194075, pvalue=0.92863072869568009)
+[ FUZZY_HUBNESS ] - P: 68.63~15.55, K: 1.0~0.4899 T: 0.0~0.0 (Train: 274858.329~7154.184 ms, Test: 11.746~0.776 ms)
+F_onewayResult(statistic=0.80925756947342198, pvalue=0.3720596893458874)
+----------------------------------------
+
+Time to Apply Clustering: 43.897~6.164 ms
+Results - glass
+DB Info:
+Samples :214
+Classes :6
+Parameters :9
+----------------------------------------
+[ GLOBAL_K ] - P: 63.51~17.01, K: 1.0~0.5735 (Train: 100.765~3.039 ms, Test: 0.325~0.023 ms)
+[ LOCAL_BEST_K ] - P: 60.18~17.15, K: 3.0~2.3211 (Train: 115.688~4.672 ms, Test: 2.524~0.304 ms)
+F_onewayResult(statistic=0.55221324913470671, pvalue=0.46041424716478851)
+[ WEIGHTED_HARMONIC ] - P: 62.14~15.21, K: 3.0~2.4413 (Train: 82.425~3.304 ms, Test: 7.074~1.56 ms)
+F_onewayResult(statistic=0.10435699466041123, pvalue=0.74782421175126068)
+[ FUZZY_HUBNESS ] - P: 57.8~15.1, K: 2.0~0.6574 T: 0.0~1.6224 (Train: 13593.561~453.194 ms, Test: 2.709~0.781 ms)
+F_onewayResult(statistic=1.8299486477233438, pvalue=0.18138377025393673)
+----------------------------------------

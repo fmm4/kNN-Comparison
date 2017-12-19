@@ -1,0 +1,30 @@
+Results - ionosphere
+DB Info:
+Samples :351
+Classes :2
+Parameters :34
+----------------------------------------
+[ GLOBAL_K ] - P: 89.67~8.09, K: 2.0~0.0 (Train: 251.944~7.569 ms, Test: 0.481~0.046 ms)
+[ LOCAL_BEST_K ] - P: 87.75~9.56, K: 4.0~3.4447 (Train: 1302.981~22.05 ms, Test: 35.694~2.201 ms)
+F_onewayResult(statistic=0.68048457469260382, pvalue=0.41279980453551446)
+[ WEIGHTED_HARMONIC ] - P: 89.47~7.1, K: 16.0~2.3466 (Train: 2356.888~33.813 ms, Test: 79.222~5.263 ms)
+F_onewayResult(statistic=0.010216326307750953, pvalue=0.91983885688093014)
+[ FUZZY_HUBNESS ] - P: 90.28~8.11, K: 3.0~1.0672 T: 0.0~0.0 (Train: 842416.115~3553.608 ms, Test: 35.802~1.573 ms)
+F_onewayResult(statistic=0.081176436287345194, pvalue=0.77672432044733908)
+----------------------------------------
+
+Time to Apply Clustering: 87.689~14.246 ms
+Results - ionosphere
+DB Info:
+Samples :351
+Classes :2
+Parameters :34
+----------------------------------------
+[ GLOBAL_K ] - P: 64.12~14.68, K: 19.0~0.0 (Train: 100.518~2.733 ms, Test: 0.359~0.021 ms)
+[ LOCAL_BEST_K ] - P: 64.12~14.68, K: 14.0~3.5504 (Train: 117.405~3.327 ms, Test: 4.79~0.344 ms)
+F_onewayResult(statistic=3.1871767829640011e-13, pvalue=0.99999954921203893)
+[ WEIGHTED_HARMONIC ] - P: 64.12~14.68, K: 1.0~0.0 (Train: 72.027~1.955 ms, Test: 9.022~0.492 ms)
+F_onewayResult(statistic=3.1871767829640011e-13, pvalue=0.99999954921203893)
+[ FUZZY_HUBNESS ] - P: 64.12~14.68, K: 20.0~0.0 T: 9.0~0.0 (Train: 14918.134~151.156 ms, Test: 4.895~0.299 ms)
+F_onewayResult(statistic=3.1871767829640011e-13, pvalue=0.99999954921203893)
+----------------------------------------

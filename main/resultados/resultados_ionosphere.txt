@@ -1,0 +1,24 @@
+Results - ionosphere
+DB Info:
+Samples :351
+Classes :2
+Parameters :34
+----------------------------------------
+[ GLOBAL_K ] - P: 89.77~8.29, K: 2.0~0.0 (Train: 277.529~43.807 ms, Test: 0.544~0.151 ms)
+[ LOCAL_BEST_K ] - P: 87.75~7.07, K: 4.0~3.488 (Train: 1434.019~181.32 ms, Test: 39.553~7.381 ms)
+[ WEIGHTED_HARMONIC ] - P: 90.05~7.25, K: 18.0~3.8599 (Train: 33567.085~3053.221 ms, Test: 88.894~12.876 ms)
+[ FUZZY_HUBNESS ] - P: 90.13~8.61, K: 2.0~0.8919 T: 0.0~0.0 (Train: 918756.752~75883.11 ms, Test: 38.966~4.981 ms)
+----------------------------------------
+
+Time to Apply Clustering: 102.751~19.666 ms
+Results - ionosphere
+DB Info:
+Samples :351
+Classes :2
+Parameters :34
+----------------------------------------
+[ GLOBAL_K ] - P: 64.02~10.56, K: 19.0~0.0 (Train: 104.946~8.567 ms, Test: 0.41~0.102 ms)
+[ LOCAL_BEST_K ] - P: 64.02~10.56, K: 14.0~3.7317 (Train: 124.22~11.236 ms, Test: 5.284~0.916 ms)
+[ WEIGHTED_HARMONIC ] - P: 64.02~10.56, K: 1.0~0.0 (Train: 157.834~18.04 ms, Test: 10.085~2.229 ms)
+[ FUZZY_HUBNESS ] - P: 64.02~10.56, K: 20.0~0.0 T: 9.0~0.0 (Train: 16171.326~1459.547 ms, Test: 5.476~1.116 ms)
+----------------------------------------

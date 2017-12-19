@@ -1,0 +1,14 @@
+Time to Apply Clustering: 3160.44~337.074 ms
+Results - yeast
+DB Info:
+Samples :1484
+Classes :10
+Parameters :8
+----------------------------------------
+[ GLOBAL_K ] - P: 38.1~7.55, K: 1.0~0.6403 (Train: 200.897~10.067 ms, Test: 0.714~0.117 ms)
+[ LOCAL_BEST_K ] - P: 38.1~7.9, K: 2.0~2.1552 (Train: 997.209~35.399 ms, Test: 127.283~6.03 ms)
+[ WEIGHTED_HARMONIC ] - P: 38.3~7.57, K: 1.0~1.3 (Train: 2102.855~85.881 ms, Test: 246.51~16.49 ms)
+[ FUZZY_HUBNESS ] - P: 39.65~7.79, K: 2.0~1.1762 T: 0.0~2.2224 (Train: 632592.104~15899.695 ms, Test: 131.592~9.184 ms)
+----------------------------------------
+100 centros
+3 amostras por centros
